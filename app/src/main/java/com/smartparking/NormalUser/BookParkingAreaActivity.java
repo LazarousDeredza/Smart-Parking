@@ -522,7 +522,24 @@ public class BookParkingAreaActivity extends AppCompatActivity  implements Payme
         Checkout checkout = new Checkout();
         checkout.setKeyID("rzp_test_lihA5B4cUsSNdf");
 
-        //testing card : 4012001037141112
+
+//main email :  smartparking984@gmail.com
+  //      password : @Smartparking123
+
+//
+        //payment testing card : 4012001037141112
+
+
+        
+
+        //plate recognizer api url  : https://app.platerecognizer.com/dashboard/
+
+        //password : platerecognizer
+        //email :  smartparking984@gmail.com
+
+
+
+
 
         checkout.setImage(R.drawable.logo_no_name);
         final BookParkingAreaActivity activity = this;

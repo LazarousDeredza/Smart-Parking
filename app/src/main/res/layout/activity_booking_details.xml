@@ -539,6 +539,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="@dimen/spacing_middle"
                         android:gravity="center_vertical"
+                        android:visibility="invisible"
                         android:orientation="horizontal">
 
                         <ImageView
@@ -565,6 +566,7 @@
                         android:id="@+id/openInvoicePdf"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
+                        android:visibility="invisible"
                         android:layout_marginTop="@dimen/spacing_middle"
                         android:background="@drawable/edit_text_round_bg_outline"
                         android:orientation="horizontal">
